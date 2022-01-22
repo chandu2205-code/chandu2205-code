@@ -5,6 +5,7 @@
 <a href="https://www.instagram.com/chandu_allenki/"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" /></a> 
 <a href="https://www.youtube.com/channel/UCzHHmwuvl4MmnzOgfi05TdQ"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" /></a>
 <a href="https://www.linkedin.com/in/allenki-sai-chandu-340289a9/"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a>
+<a href="https://stackoverflow.com/users/14343206/chandu-allenki"><img height="25" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" /></a>
 
 Hi I'm Chandu, a passionate frontEnd and backEnd web developer from India.
 
